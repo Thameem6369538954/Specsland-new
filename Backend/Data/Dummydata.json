@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Laptop",
+      "price": 50000,
+      "description": "Laptop",
+      "ratings": 2,
+      "images"  :[{"image" : "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"}],
+      "category" : "Electronics",
+      "stock" : 10,
+      "numOfReviews" : 2,
+      "reviews" :[]
+
+    }
+]
